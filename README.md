@@ -1,4 +1,6 @@
-# 🤸‍♂️Lanwen Zhang
+# Lanwen Zhang
+
+### 🤸‍♂️ About Me
 
 I have been thinking about what I am passionate about in the past few years. I embark on a journey of self-discovery by reflecting on my past experiences and exploring my interests.
 
