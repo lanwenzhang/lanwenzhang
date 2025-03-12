@@ -1,6 +1,6 @@
 ## 🤸‍♂️ Lanwen Zhang
 
-In terms of my skillset,I can develop a simple but fully functional video game from beginning to end and create a virtual reality experience in Unreal Engine. Besides, I have extensive knowledge of computer graphics and can write programs in aspects of shaders, lighting, shadow, PBR, ray-tracing with C++ and OpenGL.
+Self-motivated and result-driven engineer. Have skills in game engines, graphics APIs, and real-time rendering techniques. Passionate about diving into the 3D visualization industry.
 </details>
 
 ## 🔧 Skills
