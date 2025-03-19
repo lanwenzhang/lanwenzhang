@@ -1,6 +1,6 @@
 ## 🤸‍♂️ Lanwen Zhang
 
-Self-motivated and result-driven engineer. Have skills in game engines, graphics APIs, and real-time rendering techniques. Passionate about diving into the 3D graphics industry.
+Self-motivated engineer transitioning from ICT to the 3D graphics and game development industry. Skilled in real-time rendering, graphics APIs, and game engines. Recently completed coursework in computer graphics and Unreal Engine, applying concepts in C++, OpenGL, and UE5 to develop hands-on projects. Passionate about 3D software and game development
 </details>
 
 ## 🔧 Skills
