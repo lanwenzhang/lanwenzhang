@@ -9,6 +9,10 @@ Self-motivated engineer transitioning from ICT to the 3D graphics industry. Skil
 C++, GLSL, OpenGL, Vulkan
 <br />
 
+### Rendering
+3D math, shaders, lighting, shadow, PBR
+<br />
+
 ### Software Development
 Git, CMake, Visual Studio
 <br />
@@ -17,6 +21,4 @@ Git, CMake, Visual Studio
 Unreal Engine 5
 <br />
 
-### Rendering
-3D math, shaders, lighting, shadow, PBR
-<br />
+
