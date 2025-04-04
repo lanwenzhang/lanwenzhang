@@ -5,20 +5,8 @@ Self-motivated engineer transitioning from ICT to the 3D graphics industry. Skil
 </details>
 
 ## 🔧 Skills
-### Programming & APIs
-C++, GLSL, OpenGL, Vulkan
-<br />
-
-### Rendering
-3D math, shaders, lighting, shadow, PBR
-<br />
-
-### Software Development
-Git, CMake, Visual Studio
-<br />
-
-### Game Engines
-Unreal Engine 5
-<br />
-
+- **Programming & APIs**: C++, GLSL, OpenGL, Vulkan  
+- **Rendering**: 3D math, shaders, lighting, shadow, PBR  
+- **Software Development**: Git, CMake, Visual Studio  
+- **Game Engines**: Unreal Engine 5 
 
