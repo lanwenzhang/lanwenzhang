@@ -1,6 +1,6 @@
 ## 🤸‍♂️ Lanwen Zhang
 
-Self-motivated engineer transitioning from ICT to the 3D graphics industry. Skilled in graphics APIs, real-time rendering, and game engines. Passionate about visualization software development and game development. 
+Self-motivated engineer transitioning from ICT to the 3D graphics industry. Skilled in graphics APIs, real-time rendering, and game engines. Passionate about 3D software development. 
 
 </details>
 
