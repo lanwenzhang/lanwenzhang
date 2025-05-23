@@ -1,6 +1,6 @@
 ## 🤸‍♂️ Lanwen Zhang
 
-Graphics Programmer with hands-on experience in real-time rendering using C++, Vulkan, OpenGL, and Unreal Engine 5. Combining a strong background in mathematics and physics with a deep interest in game 
+Graphics Software Engineer with hands-on experience in real-time rendering using C++, Vulkan, OpenGL, and Unreal Engine 5. Combining a strong background in mathematics and physics with a deep interest in game 
 technology and 3D graphics. 
 
 </details>
