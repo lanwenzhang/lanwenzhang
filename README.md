@@ -1,6 +1,7 @@
 ## 🤸‍♂️ Lanwen Zhang
 
-Self-motivated engineer transitioning from ICT to the 3D graphics industry. Skilled in graphics APIs, real-time rendering, and game engines. Passionate about 3D software development. 
+Graphics Programmer with hands-on experience in real-time rendering using C++, Vulkan, OpenGL, and Unreal Engine 5. Combining a strong background in mathematics and physics with a deep interest in game 
+technology and 3D graphics. 
 
 </details>
 
