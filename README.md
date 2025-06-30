@@ -6,7 +6,7 @@ technology and 3D graphics.
 </details>
 
 ## 🔧 Skills
-- **Programming & APIs**: C++, GLSL, OpenGL, Vulkan  
+- **Programming & APIs**: C++, GLSL, Vulkan, OpenGL 
 - **Rendering**: 3D math, shaders, lighting, shadow, PBR  
 - **Software Development**: Git, CMake, Visual Studio  
 - **Game Engines**: Unreal Engine 5 
