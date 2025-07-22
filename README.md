@@ -8,6 +8,6 @@
 ## 🔧 Skills
 - **Programming & APIs:** C++, GLSL, Vulkan, OpenGL 
 - **3D Graphics:** PBR, deferred shading, post-processing, shadow, lighting, shaders, 3D math 
-- **Debugging & Profiling:** RenderDoc, NSights  
+- **Debugging & Profiling:** RenderDoc, NSight
 - **Engines & Tools:** Unreal Engine 5, Visual Studio, CMake, Git 
 
