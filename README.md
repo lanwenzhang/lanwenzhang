@@ -1,6 +1,6 @@
 ## 🤸‍♂️ Lanwen Zhang
 
-**Graphics Programmer** with hands-on experience in **real-time rendering techiques** using **C++**, **Vulkan**, and **OpenGL**. Combines a strong background in **mathematics** and **physics** with a deep passion for 
+**Graphics Programmer** with hands-on experience in **real-time rendering techiques** using **C++**, **Vulkan**, and **OpenGL**. Combines a solid foundation in **mathematics** and **physics** with a strong interest for 
 **photorealistic rendering** and **GPU-driven rendering**.
 
 </details>
