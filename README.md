@@ -7,7 +7,7 @@
 
 ## 🔧 Skills
 - **Programming & APIs:** C++, GLSL, Vulkan, OpenGL 
-- **Graphics:** PBR, ray-tracing, global illumination, deferred shading, shadow, optimization 
+- **Graphics:** PBR, ray-tracing, global illumination, deferred shading, shadow 
 - **Debugging & Profiling:** RenderDoc, NSight
 - **Engines & Tools:** Unreal Engine 5, Visual Studio, CMake, Git 
 
