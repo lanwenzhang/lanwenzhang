@@ -8,5 +8,5 @@
 - **Programming & APIs:** C++, Vulkan, OpenGL 
 - **Graphics:** ray-tracing, global illumination, physically-based rendering
 - **Debugging & Profiling:** RenderDoc, NSight
-- **Engines & Tools:** Unreal Engine 5, Visual Studio, CMake, Git 
+- **Engines & Tools:** Unreal Engine 5
 
