@@ -8,5 +8,5 @@
 - **Programming & APIs:** C++, Vulkan, OpenGL 
 - **Real-time Rendering:** ray-tracing, global illumination, physically-based rendering
 - **Debugging & Profiling:** RenderDoc, NSight
-- **Engines & Tools:** Unreal Engine 5
+- **Engines:** Unreal Engine 5
 
